@@ -24,6 +24,7 @@ This is the server-side component of the Online Shop project. It handles data pe
 2.  Open the project in IntelliJ IDEA.
 3.  Update `src/main/resources/application.properties` with your DB credentials.
 4.  Run `ShopOnlineProjectApplication.java`.
-5.  The server will be available at `http://localhost:8080`.
+5.  The server will be available at `http://localhost:9000`
+   
 
 ---
